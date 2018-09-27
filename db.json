@@ -17,6 +17,12 @@
       "title": "Catch Matt doing weird things",
       "priority": "MOI IMPORTANTE",
       "duration": "however long it takes"
+    },
+    {
+      "title": "go to trader joes",
+      "priority": "top priority",
+      "duration": "1 hour",
+      "id": 6
     }
   ]
 }
